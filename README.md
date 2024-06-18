@@ -47,7 +47,7 @@ Contribuições são bem-vindas! Se você encontrou um bug ou tem alguma melhori
 
 ## Autor
 
-- Seu Nome (@seu_usuario no GitHub)
+- Gabriel Pereira (@gmap888)
 
 ## Licença
 
