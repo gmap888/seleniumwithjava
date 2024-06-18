@@ -17,9 +17,12 @@ public class Sellintroduction {
 		// Chromedriver.exe --> Chrome Browser
 		// step to invoke chrome driver //
 		//Selenium Manager
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\USER\\OneDrive\\Documentos\\ChromeDriver.exe");
 		WebDriver driver = new ChromeDriver ();
-		
-
+		driver.get("https://rahulshettyacademy.com");
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getCurrentUrl());
+		driver.close();
 	}
 
 }
