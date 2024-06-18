@@ -1,6 +1,8 @@
 # Curso de Automação com Selenium WebDriver e Java
 
-Este repositório contém os códigos desenvolvidos durante o curso de Automação com Selenium WebDriver utilizando Java no Eclipse. Link do curso: https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/learn/lecture/29132868?start=570#overview
+Este repositório contém os códigos desenvolvidos durante o curso de Automação com Selenium WebDriver utilizando Java no Eclipse. 
+
+# Link do curso: https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/learn/lecture/29132868?start=570#overview
 
 ## Descrição do Curso
 
