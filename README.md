@@ -31,8 +31,6 @@ O curso abrange os seguintes tópicos:
 1. Clone este repositório:
 
 git clone https://github.com/gmap888/seleniumwithjava.git
-less
-Copiar código
 
 2. Abra o projeto no Eclipse.
 
