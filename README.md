@@ -30,8 +30,7 @@ O curso abrange os seguintes tópicos:
 
 1. Clone este repositório:
 
-git clone https://github.com/seu_usuario/seu_repositorio.git
-
+git clone https://github.com/gmap888/seleniumwithjava.git
 less
 Copiar código
 
